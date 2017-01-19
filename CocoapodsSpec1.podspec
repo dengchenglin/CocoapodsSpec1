@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
 
   s.name         = "CocoapodsSpec1"
   s.version      = "0.0.1"
-  s.summary      = "A short description of CocoapodsSpec1."
+  s.summary      = "CocoapodsSpec1"
 
-   s.description  = "CocoapodsSpec1"
+  s.description  = "CocoapodsSpec1"
 
   s.homepage     = "https://github.com/dengchenglin/CocoapodsSpec1.git"
 
@@ -23,7 +23,6 @@ Pod::Spec.new do |s|
 
   s.source_files  = "*.{h,m}"
 
-  s.exclude_files = "Classes/Exclude"
 
 
 end
